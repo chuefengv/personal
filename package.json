@@ -8,12 +8,14 @@
     "start": "next start",
     "lint": "next lint"
   },
+
+  "engine": {
+    "node": "20.12.2",
+    "npm": "10.5.1"
+  },
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
     "next": "14.2.3"
-  },
-  "engine": {
-    "node": "20.12.2"
   }
 }
